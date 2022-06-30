@@ -1,7 +1,11 @@
 
-
-.cabecalho-moda{
+.produto {
+    font-size: 19px;
+}
+.produto-moda {
     background-color:#BB86FC;    
+    color: aliceblue;
+   padding: 20px;
 }
 
 .produto-moda-camiseta{          
@@ -13,8 +17,9 @@
     color:aliceblue;
      
 }
-.cabecalho-casa{
+.produto-casa{
     background-color:#00C4B4;
+    color: aliceblue;
 }
  
 .produto-casa-sofa{
