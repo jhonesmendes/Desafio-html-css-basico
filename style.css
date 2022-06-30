@@ -1,35 +1,35 @@
 *{
-padding: 10px;
+padding: 9px;
 }
+
 .produto {
     font-size: 19px;
 }
+
 .tabela{
     color: aliceblue;
 }
-.produto-moda {
-    background-color:#BB86FC;    
 
+.produto-moda {
+    background-color:#BB86FC;   
 }
 
 .produto-moda-camiseta{          
     background-color:#424250;   
-    
 }
+
 .produto-moda-tenis{
-    background-color: #424250;   
-     
+    background-color: #424250;  
 }
+
 .produto-casa{
-    background-color:#00C4B4;
-    
+    background-color:#00C4B4;    
 }
- 
+
 .produto-casa-sofa{
-    background-color:#424250;   
-    
+    background-color:#424250;    
 }
+
 .produto-casa-televisao{
-    background-color:#424250;   
-    
+    background-color:#424250;  
 }
