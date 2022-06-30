@@ -1,32 +1,35 @@
-
+*{
+padding: 10px;
+}
 .produto {
     font-size: 19px;
 }
+.tabela{
+    color: aliceblue;
+}
 .produto-moda {
     background-color:#BB86FC;    
-    color: aliceblue;
-   padding: 20px;
+
 }
 
 .produto-moda-camiseta{          
     background-color:#424250;   
-    color: aliceblue;
+    
 }
 .produto-moda-tenis{
-    background-color: #424250;
-    color:aliceblue;
+    background-color: #424250;   
      
 }
 .produto-casa{
     background-color:#00C4B4;
-    color: aliceblue;
+    
 }
  
 .produto-casa-sofa{
     background-color:#424250;   
-    color: aliceblue;
+    
 }
 .produto-casa-televisao{
     background-color:#424250;   
-    color: aliceblue;
+    
 }
